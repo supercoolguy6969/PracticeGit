@@ -7,17 +7,17 @@ shortcut commands:
 -------------------------
 ## TO SAVE CHANGES FROM LOCAL DIRECTORY TO GITHUB REPOSITORY: 
 
-1. Add all the changes to local machine:
+### 1. Add all the changes to local machine:
 	- **git add .** 
 
-2. Commit the changes made: 
+### 2. Commit the changes made: 
 	* **git commit -m "COMMENT"**
 
-3. Push the changes to the repository: 
+### 3. Push the changes to the repository: 
 	- **git push**
 
 ---------------------------
-TO CREATE A NEW REPOSITORY:
+## TO CREATE A NEW REPOSITORY:
 
 
 1. Create new reposity on Github:
