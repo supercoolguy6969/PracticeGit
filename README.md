@@ -34,8 +34,7 @@ shortcut commands:
 	git init
 
 ### 2. Make remote of your respository: 
-	git remote add origin 
-git@github.com:USERNAME/REPOSITORY.git
+	git remote add origin git@github.com:USERNAME/REPOSITORY.git
 
 ### 3. Branch to main:
 	git branch -M main
