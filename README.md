@@ -13,5 +13,18 @@ TO CREATE A NEW REPOSITORY:
 	git clone <URL>
 
 
-============================
-TO  
+-----------------------------
+TO UPLOAD AN EXISITING LOCAL  DIRECTORY TO GITHUB:
+
+1. Initialize the directory: 
+	git init
+
+2. Make remote of your respository: 
+	git remote add origin 
+git@github.com:<USERNAME>/<REPOSITORY>.git
+
+3. Branch to main
+	git branch -M main
+
+4. Push to origin
+	git push -u origin main
