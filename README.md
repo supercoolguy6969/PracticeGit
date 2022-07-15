@@ -38,7 +38,7 @@ shortcut commands:
 git@github.com:USERNAME/REPOSITORY.git
 
 ### 3. Branch to main:
-	**git branch -M main**
+	git branch -M main
 
 ### 4. Push to origin:
-	**git push -u origin main**
+	git push -u origin main
