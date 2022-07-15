@@ -1,7 +1,8 @@
 # This repository is used for any Git practice using the CLI
 
-## This is used for practicing only and is used for references to any git 
-CLI 
+This is used for practicing only and is used for references to any git 
+CLI
+ 
 shortcut commands:
 
 -------------------------
@@ -27,7 +28,7 @@ shortcut commands:
 
 
 -----------------------------
-TO UPLOAD AN EXISITING LOCAL  DIRECTORY TO GITHUB:
+## TO UPLOAD AN EXISITING LOCAL  DIRECTORY TO GITHUB:
 
 1. Initialize the directory: 
 	- **git init**
