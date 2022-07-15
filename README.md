@@ -8,8 +8,7 @@ shortcut commands:
 ## TO SAVE CHANGES FROM LOCAL DIRECTORY TO GITHUB REPOSITORY: 
 
 1. Add all the changes to local machine:
-
-	**git add .** 
+		**git add .** 
 
 2. Commit the changes made 
 	**git commit -m "COMMENT"**
